@@ -5,7 +5,7 @@ const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
 const employees = [];
 
-
+//function
 
 function initApp() {
   startHtml();
