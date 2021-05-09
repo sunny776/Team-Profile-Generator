@@ -36,3 +36,13 @@ THEN I exit the application, and the HTML is generated
 ```
 
 
+
+## Mock-Up
+
+The following image shows a mock-up of the generated HTML’s appearance and functionality:
+
+![Screenshot 2021-05-08 221504](https://user-images.githubusercontent.com/48816762/117561817-f20fee00-b04e-11eb-8b2d-247e4a7b1224.jpg)
+
+
+
+![Screenshot 2021-05-08 221345](https://user-images.githubusercontent.com/48816762/117561835-110e8000-b04f-11eb-99c8-ff1ed6bade09.jpg)
